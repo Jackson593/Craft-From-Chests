@@ -1,0 +1,12 @@
+# Generated from the user's own Icarus install by generate-data.ps1.
+# These contain RocketWerkz's game data and must never be committed or
+# redistributed - that is the entire reason the generator exists.
+Scripts/recipes.lua
+Scripts/keep.lua
+
+# User's local customisation, not part of the mod
+Scripts/keep_user.lua
+
+# Build artefacts
+*.zip
+release/
