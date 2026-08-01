@@ -145,6 +145,4 @@ Bug reports and log excerpts welcome on the mod page.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Do what you like with the code.
-
-Not affiliated with RocketWerkz. ICARUS is their game; this mod just reads it.
+Copyright © 2026
